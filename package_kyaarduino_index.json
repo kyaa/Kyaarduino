@@ -12,9 +12,9 @@
           "version": "0.0.1",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/kyaa/Kyaarduino/raw/main/kyaarduino-0.0.1.zip",
+          "url": "https://github.com/kyaa/kyaarduino/raw/main/kyaarduino-0.0.1.zip",
           "archiveFileName": "kyaarduino-0.0.1.zip",
-          "checksum": "70bb60549730c33853ba845d10ea3a72f780136eae23fde33159e43607ac9416",
+          "checksum": "SHA-256:70bb60549730c33853ba845d10ea3a72f780136eae23fde33159e43607ac9416",
           "size": "1031271",
           "boards": [
             {
