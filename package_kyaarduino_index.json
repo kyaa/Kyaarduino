@@ -4,7 +4,6 @@
       "name": "Kyaarduino",
       "maintainer": "Toms Jensen",
       "websiteUrl": "https://github.com/kyaa/kyaarduino",
-      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
       "email": "toms@kyaa.co",
       "platforms": [
         {
@@ -13,10 +12,10 @@
           "version": "0.0.1",
           "deprecated": false,
           "category": "Arduino",
-          "url": "http://downloads.arduino.cc/cores/core-ArduinoCore-megaavr-1.8.7.tar.bz2",
-          "archiveFileName": "core-ArduinoCore-megaavr-1.8.7.tar.bz2",
-          "checksum": "SHA-256:24853e59bfcfcfa09d7ab51011b65f2246e082228b1f14fdaa4cbb2c6aae23b4",
-          "size": "875098",
+          "url": "https://github.com/kyaa/Kyaarduino/raw/main/kyaarduino-0.0.1.zip",
+          "archiveFileName": "kyaarduino-0.0.1.zip",
+          "checksum": "70bb60549730c33853ba845d10ea3a72f780136eae23fde33159e43607ac9416",
+          "size": "1031271",
           "boards": [
             {
               "name": "ATmega4809"
